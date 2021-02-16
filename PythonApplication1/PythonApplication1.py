@@ -7,7 +7,7 @@ import csucsido
 import beszido2
 import fizet
 
-
+print("Hello World!---------------------------------")
 ido = []
 telszam = []
 
